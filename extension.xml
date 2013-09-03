@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>ezsc-legacy</name>
+        <version>dev</version>
+        <copyright></copyright>
+        <license></license>
+        <info_url></info_url>
+    </metadata>
+
+    <dependencies>
+        <!--<extends>-->
+            <!--<extension name="ezfind" />-->
+            <!--<extension name="ezwebin" />-->
+            <!--<extension name="ezflow" />-->
+        <!--</extends>-->
+    </dependencies>
+
+</software>
